@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/saini/AndroidStudioProjects/MusicPlayer/app/src/main/res/drawable/back_arrow.xml" value="0.19166666666666668" />
+        <entry key="..\:/Users/saini/AndroidStudioProjects/MusicPlayer/app/src/main/res/drawable/ic_baseline_navigate_next_24.xml" value="0.1" />
+        <entry key="..\:/Users/saini/AndroidStudioProjects/MusicPlayer/app/src/main/res/drawable/ic_baseline_pause_24.xml" value="0.1" />
+        <entry key="..\:/Users/saini/AndroidStudioProjects/MusicPlayer/app/src/main/res/drawable/ic_baseline_play_arrow_24.xml" value="0.1" />
+        <entry key="..\:/Users/saini/AndroidStudioProjects/MusicPlayer/app/src/main/res/drawable/previous_arrow.xml" value="0.1" />
+        <entry key="..\:/Users/saini/AndroidStudioProjects/MusicPlayer/app/src/main/res/drawable/scrollbar.xml" value="0.1875" />
+        <entry key="..\:/Users/saini/AndroidStudioProjects/MusicPlayer/app/src/main/res/drawable/splash_screen.xml" value="0.1" />
+        <entry key="..\:/Users/saini/AndroidStudioProjects/MusicPlayer/app/src/main/res/layout/activity_about.xml" value="0.16757246376811594" />
+        <entry key="..\:/Users/saini/AndroidStudioProjects/MusicPlayer/app/src/main/res/layout/activity_favorite.xml" value="0.2765957446808511" />
+        <entry key="..\:/Users/saini/AndroidStudioProjects/MusicPlayer/app/src/main/res/layout/activity_feedback.xml" value="0.16666666666666666" />
+        <entry key="..\:/Users/saini/AndroidStudioProjects/MusicPlayer/app/src/main/res/layout/activity_main.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/saini/AndroidStudioProjects/MusicPlayer/app/src/main/res/layout/activity_player.xml" value="0.22" />
+        <entry key="..\:/Users/saini/AndroidStudioProjects/MusicPlayer/app/src/main/res/layout/activity_playlist.xml" value="0.2852664576802508" />
+        <entry key="..\:/Users/saini/AndroidStudioProjects/MusicPlayer/app/src/main/res/layout/activity_settings.xml" value="0.16304347826086957" />
+        <entry key="..\:/Users/saini/AndroidStudioProjects/MusicPlayer/app/src/main/res/layout/bottomdialogsheet.xml" value="0.22" />
+        <entry key="..\:/Users/saini/AndroidStudioProjects/MusicPlayer/app/src/main/res/layout/favoriteview.xml" value="0.4466666666666667" />
+        <entry key="..\:/Users/saini/AndroidStudioProjects/MusicPlayer/app/src/main/res/layout/fragment_nowplaying.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/saini/AndroidStudioProjects/MusicPlayer/app/src/main/res/layout/music_view.xml" value="0.3333333333333333" />
+        <entry key="..\:/Users/saini/AndroidStudioProjects/MusicPlayer/app/src/main/res/layout/nav_haeder.xml" value="0.22" />
+        <entry key="..\:/Users/saini/AndroidStudioProjects/MusicPlayer/app/src/main/res/menu/nav_menu.xml" value="0.1" />
+        <entry key="..\:/Users/saini/AndroidStudioProjects/MusicPlayer/app/src/main/res/menu/search_menu.xml" value="0.17135416666666667" />
+        <entry key="..\:/Users/saini/AndroidStudioProjects/MusicPlayer/app/src/main/res/mipmap-anydpi-v26/music_player_icon.xml" value="0.1" />
+        <entry key="..\:/Users/saini/AndroidStudioProjects/MusicPlayer/app/src/main/res/mipmap-anydpi-v26/music_player_icon_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
